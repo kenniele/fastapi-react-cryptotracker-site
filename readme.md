@@ -1,8 +1,8 @@
-## FastAPI + React + Tailwind + Ant Crypto Tracker service
+# FastAPI + React + Tailwind + Ant Crypto Tracker service
 
 ---
 
-# Стэк технологий
+### Стэк технологий
 - FastAPI
 - React
 - Tailwind CSS
