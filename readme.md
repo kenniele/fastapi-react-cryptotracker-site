@@ -1,7 +1,5 @@
 # FastAPI + React + Tailwind + Ant Crypto Tracker service
 
----
-
 ### Стэк технологий
 - FastAPI
 - React
